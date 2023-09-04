@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.qedir{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.qedir .box3{
+    color: rgb(38, 0, 255);
+}
+
+img{ height: 100%;
+    width: 100%;
+    object-fit: cover;
+    
+   
+
+   
+}
+.mahmudov {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    flex-wrap: wrap;
+    
+}
+.mahmudov .box4{
+    
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.mahmudov .box5{
+    padding-left: 20px;
+
+
+}
+.mahmudov .box6 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+   
+
